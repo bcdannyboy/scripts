@@ -1,2 +1,2 @@
 # scripts
-sometimes i feel like posting random scripts i write 
+just need a place to save some random scripts here and there...
