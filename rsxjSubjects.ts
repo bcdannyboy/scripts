@@ -1,5 +1,57 @@
 import { AsyncSubject, ReplaySubject, BehaviorSubject, Subject } from 'rxjs'
 
+/* OUTPUT IN CONSOLE
+
+SCENE 1: THE VOUYER AND THE PASSERBY
+vouyer heard: here's some data you nasty vouyer
+vouyer heard: oh jeez another one came along, now both of you can see me!
+passerby heard: oh jeez another one came along, now both of you can see me!
+vouyer heard: Take a picture! It'll last longer!
+passerby heard: Take a picture! It'll last longer!
+vouyer heard: yea you better run you creep!
+The lady stopped talking and the vouyer went on
+
+SCENE 2: THE TOWN CRIER AND VILLAGER HANK
+Hank heard: Hey you! come over here!
+
+SCENE 3: DORRIS, HER HARD-OF-HEARING HUSBAND JOHNNY
+Johnny heard: are you even listening to me?
+Johnny heard: what did I say?
+
+SCENE 4: MAKING A PIZZA
+Hungry Customer heard: Now you eat!
+The papa gave hungry customer the food!
+
+SCENE 5: BILLYS ALARM CLOCK
+Billy's Dog heard: BEEP 1
+Billy's Dog heard: BEEP 2
+Billy's Dog heard: BEEP 3
+Billy's Dog heard: BEEP 4
+Billy's Dog heard: BEEP 5
+Billy's Dog heard: BEEP 6
+Billy's Dog heard: BEEP 7
+Billy's Dog heard: BEEP 8
+Billy's Dog heard: BEEP 9
+Billy heard: BEEP 6
+Billy heard: BEEP 7
+Billy heard: BEEP 8
+Billy heard: BEEP 9
+Billy's Dog heard: BEEP 10
+Billy heard: BEEP 10
+Billy's Dog heard: BEEP 11
+Billy heard: BEEP 11
+Billy's Dog heard: BEEP 12
+Billy heard: BEEP 12
+Billy's Dog heard: BEEP 13
+Billy heard: BEEP 13
+Billy's Dog heard: BEEP 14
+Billy heard: BEEP 14
+Billy's Dog heard: BEEP 15
+Billy heard: BEEP 15
+The alarm clock automatically turned off
+*/
+
+
 // 'observable', 'observer', 'subjects', etc. are all just words for things that listen and things that speak
 // when you 'subscribe' to and 'observable' youre simply listening for the things that it's saying
 // when you 'emit' from an 'observer' you speak through it 
