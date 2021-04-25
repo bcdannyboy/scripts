@@ -182,7 +182,7 @@ setTimeout(() => {
         }
     )
 }, 500) // it takes billy 500 milliseconds to realize he's hearing his alarm and wake up
-// 500 - 200 = 300 / 50 = billy will wake up on the 10th alarm and realized he heard the last few in his dream
+// billy will wake up on the 10th alarm and realized he heard the last few in his dream
 
 
 let amtAlarmRings = 0; 
